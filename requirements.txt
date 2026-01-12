@@ -4,3 +4,5 @@ langchain
 langchain-openai
 langchain_community
 langchain-ollama
+langgraph
+langgraph-cli[inmem]
