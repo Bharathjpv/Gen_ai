@@ -6,3 +6,7 @@ langchain_community
 langchain-ollama
 langgraph
 langgraph-cli[inmem]
+cognee
+protego
+playwright
+pandas
